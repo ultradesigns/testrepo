@@ -1,7 +1,5 @@
 pre course test
 
 Editing file test
-adding in second branch
-adding a second commit
 
 
